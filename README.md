@@ -1,7 +1,7 @@
 ## 👩‍💻 Natalia Moraes  
 **Frontend Developer**
 
-Desenvolvedora frontend com experiência em React, Next.js e TypeScript, atuando na construção e manutenção de aplicações web com foco em usabilidade e evolução contínua.
+Desenvolvedora frontend com experiência em React, Angular.js e TypeScript, atuando na construção e manutenção de aplicações web com foco em usabilidade e evolução contínua.
 
 ---
 
@@ -9,7 +9,8 @@ Desenvolvedora frontend com experiência em React, Next.js e TypeScript, atuando
 - React  
 - Angular.js  
 - TypeScript  
-- JavaScript  
+- JavaScript
+- Tailwind 
 - HTML & CSS  
 
 ---
